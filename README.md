@@ -8,7 +8,7 @@ make
 ./server 9000
 
 ## Run Client
-./client 127.0.0.1 9000 file.bin
+./client 127.0.0.1 9000 senderfile.bin
 
 ## Clean
 make clean
