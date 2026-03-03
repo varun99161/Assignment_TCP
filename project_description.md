@@ -11,7 +11,7 @@ Client-Server TCP model with chunk-based file transfer.
 - Cross-platform socket abstraction
 
 ## C4 Diagrams
-Included in docs/diagrams
+Included diagrams
 
 ## Performance Metrics
-Included in docs/performance
+Included performance
