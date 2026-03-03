@@ -12,3 +12,8 @@ make
 
 ## Clean
 make clean
+
+
+## Unit Test running
+./test_hash
+
